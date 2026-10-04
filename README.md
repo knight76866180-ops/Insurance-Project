@@ -1,2 +1,3 @@
 # Insurance-Project
-This project uses Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze insurance data through data cleaning, visualization, and statistical analysis to identify factors affecting insurance charges.
+
+This project focuses on Exploratory Data Analysis (EDA) and preprocessing of an insurance dataset using Python. It utilizes libraries such as Pandas, NumPy, Matplotlib, and Seaborn to analyze customer attributes, including age, gender, BMI, number of children, smoking habits, region, and insurance charges. The project involves data visualization, missing-value and duplicate checks, categorical encoding, feature engineering, and standardization. Statistical techniques, including Pearson correlation and Chi-square tests, are used to examine relationships between features and insurance charges. Finally, relevant features are selected to prepare a clean, structured dataset for further analysis and potential insurance cost prediction.
